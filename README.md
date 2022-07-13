@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/) 
 <br>
 
-***This new Mona Virtual Assistant using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new ABOUT CPU using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -20,7 +20,7 @@
 
 <div align="justified">
     
-Mona is a virtual assistant. It gives water, medicine and other health related reminders.
+ABOUT CPU gives information about CPU. This details are really important. So user can use this application to know details about that CPU in which computer this app is present.
  
 </div>
 
@@ -28,19 +28,16 @@ Mona is a virtual assistant. It gives water, medicine and other health related r
 
 <div align="justified">
     
-I have made this so that it can give reminder to me and my friends for healthy life.
+I have made this so that user can easily get details about CPU.
+
 </div>
 
 
 ## Folder Structure :point_down:
 
 ```bash
-MONA-PYTHON
-    ├── snake_game.py
-    ├── snake_gui.py
-    ├── highscore.txt
-    ├── scorecard.txt
-    └── mp3 songs
+ABOUT CPU
+    └── cpu_information.py
 ```
     
 ## Screenshots :point_down: 
