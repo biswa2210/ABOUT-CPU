@@ -24,10 +24,6 @@ ABOUT CPU gives information about CPU. This details are really important. So use
  
 </div>
 
-## FAKE GOOGLE DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=EOoiCryP1Wc&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=9">Click here to watch</a>
-
-## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
-
 ## ABOUT CPU VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=_Z6FWUcPD_c&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=3">Click here to watch</a>
 
 ## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
@@ -52,17 +48,9 @@ ABOUT CPU
 
 <div align="center">
     
-<a href="fake1.png"><img src="fake1.png" width="800" height= "380"></a> 
-    
-<a href="fake2.png"><img src="fake2.png" width="800" height= "380"></a> 
-
-<a href="fake3.png"><img src="fake3.png" width="800" height= "380"></a> 
-
-<a href="fake4.png"><img src="fake4.png" width="800" height= "380"></a> 
-
-<a href="fake5.png"><img src="fake5.png" width="800" height= "380"></a> 
-
-<a href="fake6.png"><img src="fake6.png" width="800" height= "380"></a> 
+<a href="auto1.png"><img src="auto1.png" width="800" height= "380"></a> 
+   
+<a href="auto2.png"><img src="auto2.png" width="800" height= "380"></a> 
 
 </div>
 
