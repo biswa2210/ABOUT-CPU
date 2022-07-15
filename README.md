@@ -24,6 +24,10 @@ ABOUT CPU gives information about CPU. This details are really important. So use
  
 </div>
 
+## ABOUT CPU VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=_Z6FWUcPD_c&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=3">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
@@ -44,7 +48,9 @@ ABOUT CPU
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="cpu1.png"><img src="cpu1.png" width="800" height= "380"></a> 
+    
+<a href="cpu2.png"><img src="cpu2.png" width="800" height= "380"></a>
 
 </div>
 
