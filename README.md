@@ -48,9 +48,9 @@ ABOUT CPU
 
 <div align="center">
     
-<a href="auto1.png"><img src="auto1.png" width="800" height= "380"></a> 
+<a href="cpu1.png"><img src="cpu1.png" width="800" height= "380"></a> 
    
-<a href="auto2.png"><img src="auto2.png" width="800" height= "380"></a> 
+<a href="cpu2.png"><img src="cpu2.png" width="800" height= "380"></a> 
 
 </div>
 
